@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "itemName": "Pencil",
+      "itemPrice": "15",
+      "itemQty": "7"
+    },
+    {
+      "id": 3,
+      "itemName": "book",
+      "itemPrice": "30",
+      "itemQty": "2"
+    }
+  ],
+  "SignUpUsers": [
+    {
+      "fullName": "nipuna ",
+      "phoneNumber": "0112893455",
+      "email": "abc@gmail.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "fullName": "amal",
+      "phoneNumber": "0123456789",
+      "email": "amal@gmail.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "fullName": "abc",
+      "phoneNumber": "123456789",
+      "email": "abc@gmail.com",
+      "password": "123",
+      "id": 3
+    },
+    {
+      "fullName": "minura",
+      "phoneNumber": "0112834567",
+      "email": "minura@gmail.com",
+      "password": "minura",
+      "id": 4
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
